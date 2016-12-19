@@ -1,2 +1,2 @@
 # Junior.net
-Projekt 
+Projekt - tu będzie cały plan, podział ról i rozłożenie w czasie ;)
