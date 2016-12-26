@@ -1,5 +1,6 @@
 # Junior.net
 Projekt:
+- Tytuł - "FajnaGra"
 
 - Poziomy:
   * Dwa kawałki ziemi po bokach, kolce po środku, cel - przeskoczyć
